@@ -61,12 +61,19 @@ From **data science** to **digital product development**, I enjoy connecting the
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoboZe&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=RoboZe-01&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RoboZe-01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoboZe-01&theme=tokyonight" width="48%"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoboZe&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoboZe-01&layout=compact&theme=tokyonight&langs_count=6" width="40%"/>
 </p>
+
+<!-- Optional Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoboZe-01&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
+</p>
+
 
 
 ---
@@ -82,7 +89,7 @@ From **data science** to **digital product development**, I enjoy connecting the
   <a href="mailto:roboticsxzero@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/prem.k__01/" target="_blank">
+  <a href="https://www.instagram.com/prem.k___01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
