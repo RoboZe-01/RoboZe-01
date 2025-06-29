@@ -1,7 +1,8 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0FF79C&center=true&vCenter=true&width=435&lines=Hey!+I'm+RoboZe+🤖;Mechanical+Mind+%2B+Tech+Heart;Building+AI+Tools+%7C+SaaS+%7C+Robots" alt="Typing SVG" />
-</h1>
+<!-- ✅ Fixed Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0FF79C&center=true&vCenter=true&width=500&lines=Hey!+I'm+RoboZe+🤖;Mechanical+Mind+%2B+Tech+Heart;Builder+of+AI+Tools+%7C+SaaS+%7C+Robots" alt="Typing animation"/>
+</p>
+
 
 <!-- Optional Banner (upload your own to GitHub and link it below) -->
 <!-- <p align="center">
@@ -58,18 +59,32 @@ From **data science** to **digital product development**, I enjoy connecting the
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoboZe&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=RoboZe&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=RoboZe-01&theme=tokyonight" width="48%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoboZe&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+
+---
 
 ---
 
 ### 🌐 Let's Connect
+
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prem-kamble-585608300/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="roboticsxzero@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
+  <a href="https://www.linkedin.com/in/prem-kamble-585608300/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:roboticsxzero@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/prem.k__01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
