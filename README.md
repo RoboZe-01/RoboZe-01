@@ -1,7 +1,14 @@
-<!-- ✅ Fixed Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0FF79C&center=true&vCenter=true&width=500&lines=Hey!+I'm+RoboZe+🤖;Mechanical+Mind+%2B+Tech+Heart;Builder+of+AI+Tools+%7C+SaaS+%7C+Robots" alt="Typing animation"/>
-</p>
+<!-- 👨‍💻 Terminal-Style Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&random=false&width=650&lines=>+Hello+there...;>+Welcome+to+RoboZe-01's+Terminal;>+Mechanical+%2B+AI+%2B+Web+Dev+=+💡+⚙️+📱" alt="Terminal Heading" />
+</h1>
+
+---
+
+```bash
+> Initiating personality scan...
+> Loading creativity... ██████████ 100%
+> Engaging RoboZe Mode [MECHxTECH] ✔️
 
 
 <!-- Optional Banner (upload your own to GitHub and link it below) -->
