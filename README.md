@@ -46,6 +46,26 @@ From **data science** to **digital product development**, I enjoy connecting the
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
+
+### 📈 My GitHub Activity Stats
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RoboZe-01&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&hide_title=true&theme=tokyonight&border_radius=10" width="47%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoboZe-01&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoboZe-01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=10" width="40%" />
+</p>
+
+<!-- Optional Trophy Wall -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoboZe-01&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
+</p>
 #### 🤖 AI Tools I Use Regularly
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
