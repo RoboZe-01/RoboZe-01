@@ -47,6 +47,22 @@ From **data science** to **digital product development**, I enjoy connecting the
 </p>
 
 
+#### 🤖 AI Tools I Use Regularly
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-9146FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek%20API-FFCE45?style=for-the-badge&logo=cloudflare&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Lovable%20AI-FF69B4?style=for-the-badge&logo=heart&logoColor=white"/>
+</p>
+
+
+
+---
+
+---
 ### 📈 My GitHub Activity Stats
 
 <p align="center">
@@ -66,15 +82,8 @@ From **data science** to **digital product development**, I enjoy connecting the
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RoboZe-01&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
 </p>
-#### 🤖 AI Tools I Use Regularly
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-9146FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek%20API-FFCE45?style=for-the-badge&logo=cloudflare&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Lovable%20AI-FF69B4?style=for-the-badge&logo=heart&logoColor=white"/>
-</p>
+
+
 
 ---
 
